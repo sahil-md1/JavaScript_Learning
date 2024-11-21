@@ -33,3 +33,16 @@ console.log(stringNum);
 
 console.log(typeof stringNum);
 
+
+
+// pre-increment operator
+
+let num = 5;
+console.log(++num); // Output: 6
+console.log(num);   // Output: 6
+
+// post-increment operator
+
+let number = 5;
+console.log(number++); // Output: 5
+console.log(number);   // Output: 6
