@@ -20,4 +20,4 @@ console.log(undefined >= 0);
 // false
 // false
 
-// ===  check value and dataTypes both
+// ===  check value and dataTypes
